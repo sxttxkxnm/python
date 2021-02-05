@@ -1,0 +1,13 @@
+print("โปรแกรมหยิบสินค้า")
+a=input("1  :")
+b=input("2. :")
+c=input("3. :")
+d=input("4. :")
+e=input("5. :")
+print("สินค้าที่หยิบใส่ตะกร้ามีดังนี้")
+thing=[a,b,c,d,e]
+print("1.",thing[0])
+print("2.",thing[1])
+print("3.",thing[2])
+print("4.",thing[3])
+print("5.",thing[4])
